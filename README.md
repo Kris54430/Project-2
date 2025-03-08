@@ -1,1 +1,1 @@
-# Project-2
+My portfolio has 4 sections which includes home , about, portfolio and contact. About section has further three parts which includes skills, experience and education. In portfolio section , it's about my work which has 3 certification courses. And at last the contact section is present. This highlights about my project which has different skills to show up.
